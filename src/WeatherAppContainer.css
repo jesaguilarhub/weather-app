@@ -1,0 +1,13 @@
+.weather-data-container {
+  display: flex;
+}
+
+.left-data, .right-data {
+  width: 50%;
+}
+
+.button {
+  padding: 5px;
+  font-size: 1rem;
+  border-radius: 4px;
+}
